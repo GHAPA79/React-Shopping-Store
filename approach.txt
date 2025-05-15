@@ -1,0 +1,40 @@
+step 1: Wrapping App component by BrowserRouter.
+
+step 2: Config Routers.
+
+step 3: Config axios.
+
+step 4: Define Context for Products.
+
+step 5: Wrapping ProductsProvider around the routers.
+
+step 6: Creating custom hook for getting products data.(useProducts()).
+
+step 7: Rendering products List.
+
+step 8: Creating Card components and redering its dependencies.
+
+step 9: Rendering Card components with react-icons and css styles and props data.
+
+step 10: Add Loader to project with react-loader-spinner.
+
+step 11: Implementing search section.
+
+step 12: Implementing category section.
+
+*step 13: Implementing the logic of search and category section.*
+
+*step 14: Handling queries in search and category section.*
+
+step 15: Implementing cart context and combine it with reducer.
+
+step 16: Implementing layout in project.
+
+step 17: Implementing product details.
+
+step 18: Implementing checkout page and its logic.
+
+Add new features: 
+// Showing empty result after search. 
+// add checkout to local storage.
+// add tailwind css.
